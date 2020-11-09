@@ -4,7 +4,7 @@
 - Graduado em Gestão de Tecnologia da Informação - Centro Universitário Moura Lacerda
 
 # Profissão :briefcase:
-- Desenvolvedor de Software - Socin
+- Desenvolvedor de Software - Invillia
   - :coffee: Java
   
 # Contatos :blue_book:
