@@ -4,7 +4,7 @@
 - Graduado em Gestão de Tecnologia da Informação - Centro Universitário Moura Lacerda
 
 # Profissão :briefcase:
-- Desenvolvedor de Software - Invillia
+- Desenvolvedor de Software - PagBank
   - :coffee: Java
   
 # Contatos :blue_book:
